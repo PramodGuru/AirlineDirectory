@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Airline Database</string>
+    <string name="airline_alliance">Airline Alliance</string>
+    <string name="save_to_favourites">Save to favourites</string>
+    <string name="phone">phone</string>
+    <string name="website">website</string>
+    <string name="airline_name">airline name</string>
+</resources>
